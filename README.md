@@ -29,7 +29,7 @@
 - ⚡  Motivated ✨
 - 👯 I’m looking to collaborate on Generative AI, fintech & block-chain technology web application projects
 - 💬 Ask me about Full-stack Web Applications
-- 📫 How to reach me: iamqasimalizahid@gmail.com
+- 📫 How to reach me: um483932@gmail.com
 - ⚡ Fun fact: The first computer “bug” was an actual real-life bug.
 <br/>
 
