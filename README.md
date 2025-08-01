@@ -93,7 +93,7 @@
 					<br>
 					<br>
 					<p>
-					   <a href="https://github.com/iamqasimali/agency_pics" target="_blank">
+					   <a href="https://github.com/Umair Ejaz/agency_pics" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					   </a>  
 					   <a href="https://www.agency.pics/" target="_blank">
