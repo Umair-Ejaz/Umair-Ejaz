@@ -4,7 +4,7 @@
 
 I'm a passionate Web Developer from Pakistan with a strong interest in building modern, scalable, and user-friendly web applications. I enjoy transforming ideas into practical digital solutions using modern frontend and backend technologies.
 
-I focus on writing clean, maintainable code, developing RESTful APIs, and creating responsive user experiences.
+I focus on writing clean, maintainable code, developing RESTful APIs, and creating responsive user experiences
 
 - 🔭 Working on full-stack web development projects.
 - 🌱 Currently improving my skills in Next.js, Backend Architecture, Redis, and System Design.
