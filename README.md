@@ -8,7 +8,7 @@ I focus on writing clean, maintainable code, developing RESTful APIs, and creati
 
 - 🔭 Working on full-stack web development projects
 - 🌱 Currently improving my skills in Next.js, Backend Architecture, Redis, and System Design.
-- 💻 Interested in scalable applications and real-time systems.
+- 💻 Interested in scalable applications and real-time systems
 - 🚀 Passionate about continuous learning and solving real-world problems.
 - 🎯 Aspiring to work with international development teams.
 
