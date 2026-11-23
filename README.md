@@ -2,7 +2,7 @@
 
 ### Full-Stack Web Developer | MERN Stack Developer | Software Engineer.
 
-I'm a passionate Web Developer from Pakistan with a strong interest in building modern, scalable, and user-friendly web applications. I enjoy transforming ideas into practical digital solutions using modern frontend and backend technologies
+I'm a passionate Web Developer from Pakistan with a strong interest in building modern, scalable, and user-friendly web applications. I enjoy transforming ideas into practical digital solutions using modern frontend and backend technologies.
 
 I focus on writing clean, maintainable code, developing RESTful APIs, and creating responsive user experiences.
 
