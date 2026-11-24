@@ -109,7 +109,7 @@ A Point of Sale application designed to manage supermarket operations, sales, in
 
 **Key Features:**
 - Product and inventory management.
-- Sales and transaction management.
+- Sales and transaction management..
 - Administrative dashboard.
 - Database integration.
 - Structured backend architecture.
