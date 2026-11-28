@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Umair Ejaz
+# 👋 Hi, I'm Umair Ejaz.
 
 ### Full-Stack Web Developer | MERN Stack Developer | Software Engineer.
 
